@@ -1,1 +1,3 @@
 # gitStudy
+
+xiaoming update readme
