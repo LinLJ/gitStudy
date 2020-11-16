@@ -1,8 +1,1 @@
-# gitStudy
-
-
-xiaoming update readme
-xiaohong update readme
-
-xiaogang update readme
-
+#小A完成功能
